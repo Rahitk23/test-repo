@@ -1,1 +1,2 @@
 This is my first git project  where I am gonna learn how to make new file into my local repository.
+This is my second change after I have uploaded my first change into the github.
